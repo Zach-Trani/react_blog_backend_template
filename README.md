@@ -9,7 +9,7 @@ Run the app locally using npm start.
 
 # Development Overview - server.js file
 
-A leightweight backend was developed in the server.js file to get the project up and running quickly. This can be further abstracted out to to an MVC architecture. 
+A lightweight backend was developed in the server.js file to get the project up and running quickly. This can be further abstracted out to to an MVC architecture. 
 
 
 The backend features a schema for new posts submitted by users. Also featured are controllers for each of the following scenarios:
